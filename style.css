@@ -1,0 +1,40 @@
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+header {
+  background-color: lightgrey;
+}
+.top {
+  text-align: right;
+}
+
+.center{
+  background-color: lightgreen;
+}
+img {
+  display: block;
+  margin: auto;
+}
+input[type=text] {
+  display: block;
+  margin: auto;
+  width: 500px;
+  height: 30px;
+}
+.button {
+  text-align: center;
+}
+
+.bottom {
+  background-color: lightblue;
+}
+
+footer {
+  background-color: pink;
+
+}
+.bottomRight {
+  text-align: right;
+}
